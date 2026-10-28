@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "settings": {
+    "respectFreezeTime": {
+      "type": "toggle",
+      "title": "Respect Time Freeze Settings",
+      "tooltip": "Time freeze is no longer forcefully disabled when reading the ship log and Nomai text, with the exception of the end of the loop as usual.",
+      "value": false
+    },
+    "vanillaEnding": {
+      "type": "toggle",
+      "title": "Disable Custom Ending",
+      "tooltip": "Disables The Outsider's custom ending sequence.",
+      "value": false
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jackson\\Downloads\\TheOutsiderOptions\\TheOutsiderOptions.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jackson\\Downloads\\TheOutsiderOptions\\TheOutsiderOptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jackson\\Downloads\\TheOutsiderOptions\\TheOutsiderOptions.csproj",
+        "projectName": "TheOutsiderOptions",
+        "projectPath": "C:\\Users\\Jackson\\Downloads\\TheOutsiderOptions\\TheOutsiderOptions.csproj",
+        "packagesPath": "C:\\Users\\Jackson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jackson\\Downloads\\TheOutsiderOptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jackson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "OWML": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "OuterWildsGameLibs": {
+              "target": "Package",
+              "version": "[1.1.14.768, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

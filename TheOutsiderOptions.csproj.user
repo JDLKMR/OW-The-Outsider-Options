@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Same convention as the Outsider's projects. build.ps1 overrides this with -o, so it's only used for IDE builds. -->
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\YourName.TheOutsiderOptions</OutputPath>
+  </PropertyGroup>
+</Project>

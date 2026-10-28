@@ -1,0 +1,9 @@
+C:\Users\Jackson\Downloads\TheOutsiderOptions\build\manifest.json
+C:\Users\Jackson\Downloads\TheOutsiderOptions\build\default-config.json
+C:\Users\Jackson\Downloads\TheOutsiderOptions\build\TheOutsiderOptions.dll
+C:\Users\Jackson\Downloads\TheOutsiderOptions\obj\Release\TheOutsiderOptions.csproj.AssemblyReference.cache
+C:\Users\Jackson\Downloads\TheOutsiderOptions\obj\Release\TheOutsiderOptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\Downloads\TheOutsiderOptions\obj\Release\TheOutsiderOptions.AssemblyInfoInputs.cache
+C:\Users\Jackson\Downloads\TheOutsiderOptions\obj\Release\TheOutsiderOptions.AssemblyInfo.cs
+C:\Users\Jackson\Downloads\TheOutsiderOptions\obj\Release\TheOutsiderOptions.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Downloads\TheOutsiderOptions\obj\Release\TheOutsiderOptions.dll
